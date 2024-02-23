@@ -1,1 +1,1 @@
-# memory-game
+This memory game uses images of WWE superstars and was built using HTML, CSS and JavaScript
