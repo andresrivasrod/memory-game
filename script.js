@@ -11,18 +11,18 @@ let firstCard = false;
 let secondCard = false;
 
 
-const items = [{name: "seth", image: "https://s1.sportstatics.com/relevo/www/multimedia/202306/06/media/cortadas/seth-rollins-RHITO0IojMgNfRL1gEuD1DJ-1200x648@Relevo.jpeg"}, 
-{name: "roman", image: "https://www.pwmania.com/wp-content/uploads/2023/07/roman-reigns.jpg"}, 
-{name: "punk", image: "https://www.wwe.com/f/styles/og_image/public/all/2023/11/140_SURV_11252023EJ_32143--a3b66a5876106a26f1bd48b2550dd98a.JPG"},
-{name: "cody", image: "https://mundolucha.com/wp-content/uploads/2024/01/cronica-cody-rhodes-wwe-royal-rumble-2024-mundolucha-860x484.jpg"},
-{name: "gunther", image: "https://www.wwe.com/f/2023/07/20270717_RAW_Gunther--4c8fca7cba6d159fc2c55416d326eb04.jpg"}, 
-{name: "bron", image: "https://www.wwe.com/f/styles/og_image/public/all/2023/07/33_NXT_07112023EJ_11704--df243f41ada521be62162d14a3da7ec8.jpg"},
-{name: "knight", image: "https://www.usanetwork.com/sites/usablog/files/2023/11/wwe-la-knight2.jpg"}, 
-{name: "styles", image: "https://www.wwe.com/f/styles/wwe_large/public/all/2023/09/057_SD_09082023EJ_26439--52f332de41f28a6809d2739a0f7f9b1b.jpg"},
-{name: "undertaker", image: "https://www.usanetwork.com/sites/usablog/files/2023/06/wwe-undertaker-dream-match1.jpg"}, 
-{name: "rock", image: "https://staticg.sportskeeda.com/editor/2020/03/40983-15854044267094-800.jpg"},
-{name: "austin", image: "https://www.wwe.com/f/styles/og_image/public/rd-talent/Bio/Steve_Austin_bio.jpg"},
-{name: "cena", image: "https://espanol.wwe.com/f/styles/og_image/public/all/2016/07/John_Cena_bio--b51ea9d0b6f475af953923ac7791391b.jpg"}
+const items = [{name: "seth", image: "./Images/Seth Rollins.jpeg"}, 
+{name: "roman", image: "./Images/Roman Reigns.jpeg"}, 
+{name: "punk", image: "./Images/CM Punk.jpeg"},
+{name: "cody", image: "./Images/Cody Rhodes.jpeg"},
+{name: "gunther", image: "./Images/Gunther.jpeg"}, 
+{name: "bron", image: "./Images/Bron Breakker.jpeg"},
+{name: "knight", image: "./Images/LA Knight.jpeg"}, 
+{name: "styles", image: "./Images/AJ Styles.jpeg"},
+{name: "undertaker", image: "./Images/Undertaker.jpeg"}, 
+{name: "rock", image: "./Images/The Rock.jpeg"},
+{name: "austin", image: "./Images/Steve Austin.jpeg"},
+{name: "cena", image: "./Images/John Cena.jpeg"}
 ];
 
 //Initial Time
